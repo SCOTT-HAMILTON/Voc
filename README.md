@@ -1,2 +1,2 @@
 # Voc
-This is a java appication who have fonctionnality to manipulates adress book.
+This is a java application who have fonctionnality to manipulates adress book.
